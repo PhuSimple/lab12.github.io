@@ -1,0 +1,28 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./images/img1.png.jpg");
+  height: 600px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./images/img2.png.jpg");
+  height: 600px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./images/img3.png.webp");
+  height: 600px;
+}
+
+
+/* .footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+} */
+
